@@ -4,6 +4,8 @@ This project identifies the first 100 articles are sorted from newest to oldest 
 ## Technologies Needed
 - Node.js
 - npm
+- playwright
+- jest
 
 ## Installation
 1. Clone repository
