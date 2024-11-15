@@ -17,7 +17,13 @@ git clone https://github.com/evey882/QA-Wolf_QA-Engineer.git
 npm install
 ```
 
-3. To run the additional jest testing
+4. Run the testing environment
+```bash
+node index.js
+```
+
+
+5. To run the additional jest testing
 ```bash
 npm test
 ```
