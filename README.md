@@ -8,6 +8,14 @@ This project identifies the first 100 articles are sorted from newest to oldest 
 - jest
 
 ## Installation
+0. Install Technologies
+  - NodeJs can be installed through website
+
+```bash
+npm init playwright@latest
+npm install --save-dev jest
+```
+
 1. Clone repository
 ```bash
 git clone https://github.com/evey882/QA-Wolf_QA-Engineer.git
